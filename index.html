@@ -1,0 +1,29 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>darkxeon's MV Player</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+</head>
+<body>
+    <div class="embed-responsive embed-responsive-16by9 video-player">
+        <video src="video2.mp4" class="video embed-responsive-item"></video>
+        <div class="player-controls">
+            <div class="video-progress">
+                <div class="video-progress-filled"></div>
+            </div>
+            <button type="button" class="btn shadow-none btn-warning play-button" title="play">
+                <img class="button-img" src="play-button.png" alt="Play">
+            </button>
+            <input type="range" class="btn btn-warning shadow-none volume" min="0" max="1" step="0.01" value="1">
+            <div class="time">
+                <span class="current">0:00</span> / <span class="duration">0:00</span>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+How to generate ideas? by Arman Suleimenov
+
+Come for the tool, stay for the network
+
+1) Make a single player mode app
+
+b2b saas: gusto, stripe, scale, ramp, rippling, mercury, zeni
+b2c saas: browserflow, raindrop, honey, camelCamelCamel, loom, stumbleUpon, 
+
+Everything is a remix
+
+news.ycombinator.com 
+producthunt.com 
+indiehackers.com 
+Chrome Web Store
+
+Web3: Helium, Hivemapper, Alchemy, Mirror, Audius, stumbleUpon
+
+Feel yourself as a customer!
+
+NFT TODOs:
+1. Go to OpenSea and buy the cheapest NFT you can find
+2. Read how most popular NFT collections got off the ground
+3. Think of 1 character which is suitable for a profile avatar
+4. Write code to produce 10,000 characters
+5. Mint your collection on Zora and publish OpenSea
+
+
+
+
+
+how to choose? difficulty and impact, min.difficulty and max.impact
+
+do not boil the sea
+
+cunningham law
+
+любовь > ненависть > безразличие
