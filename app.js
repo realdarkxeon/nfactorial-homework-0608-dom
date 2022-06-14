@@ -17,8 +17,8 @@ const addZerosToFront = (s) => {
     return res;
 };
 
-const PLAY = '<img class="button-img" src="play-button.png" alt="Play">';
-const PAUSE = '<img class="button-img" src="pause-button.png" alt="Play">';
+const PLAY = '<i class="fa fa-play-circle fa-lg"></i>';
+const PAUSE = '<i class="fa fa-pause-circle fa-lg"></i>';
 
 // Play or Pause
 playButton.addEventListener("click", (e) => {
